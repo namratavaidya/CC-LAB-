@@ -3,8 +3,8 @@
 ## Terminal Session
 
 ```bash
-lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ vim count_1290.l
-lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ lex count_1290.l
+lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ vim count_1273.l
+lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ lex count_1273.l
 lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ cc lex.yy.c -ll
 lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ ./a.out < input.c
 Line Count = 19
